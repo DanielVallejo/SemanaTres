@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi Mascota</string>
+    <string name="pNombre">Nombre</string>
+    <string name="pValor">Valor</string>
+</resources>
